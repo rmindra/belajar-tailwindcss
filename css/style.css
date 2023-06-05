@@ -680,9 +680,9 @@ h2 {
   margin: auto;
 }
 
-.mx-4 {
-  margin-left: 1rem;
-  margin-right: 1rem;
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
 
 .mx-auto {
@@ -708,11 +708,6 @@ h2 {
 .my-32 {
   margin-top: 8rem;
   margin-bottom: 8rem;
-}
-
-.mx-2 {
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
 }
 
 .mb-1 {
@@ -1014,44 +1009,44 @@ h2 {
   background-color: rgb(255 255 255 / 0.3);
 }
 
-.bg-\[url\(\'\/img\/grid\/1\.jpeg\'\)\] {
-  background-image: url('/img/grid/1.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/1\.jpeg\'\)\] {
+  background-image: url('./img/grid/1.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/10\.jpeg\'\)\] {
-  background-image: url('/img/grid/10.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/10\.jpeg\'\)\] {
+  background-image: url('./img/grid/10.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/2\.jpeg\'\)\] {
-  background-image: url('/img/grid/2.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/2\.jpeg\'\)\] {
+  background-image: url('./img/grid/2.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/3\.jpeg\'\)\] {
-  background-image: url('/img/grid/3.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/3\.jpeg\'\)\] {
+  background-image: url('./img/grid/3.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/4\.jpeg\'\)\] {
-  background-image: url('/img/grid/4.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/4\.jpeg\'\)\] {
+  background-image: url('./img/grid/4.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/5\.jpeg\'\)\] {
-  background-image: url('/img/grid/5.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/5\.jpeg\'\)\] {
+  background-image: url('./img/grid/5.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/6\.jpeg\'\)\] {
-  background-image: url('/img/grid/6.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/6\.jpeg\'\)\] {
+  background-image: url('./img/grid/6.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/7\.jpeg\'\)\] {
-  background-image: url('/img/grid/7.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/7\.jpeg\'\)\] {
+  background-image: url('./img/grid/7.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/8\.jpeg\'\)\] {
-  background-image: url('/img/grid/8.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/8\.jpeg\'\)\] {
+  background-image: url('./img/grid/8.jpeg');
 }
 
-.bg-\[url\(\'\/img\/grid\/9\.jpeg\'\)\] {
-  background-image: url('/img/grid/9.jpeg');
+.bg-\[url\(\'\.\/img\/grid\/9\.jpeg\'\)\] {
+  background-image: url('./img/grid/9.jpeg');
 }
 
 .bg-gradient-to-bl {
